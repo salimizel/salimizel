@@ -10,7 +10,6 @@
     <title>My Awesome Project</title>
   </head>
   <body>
-    <h1>My Awesome Project</h1>
     <p>Welcome to my awesome project! This is where I showcase my work and share my ideas with the world.</p>
     <h2>About</h2>
     <p>This project is built using HTML, CSS, and JavaScript. It is a responsive website that works great on desktop and mobile devices.</p>
