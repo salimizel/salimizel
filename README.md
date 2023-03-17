@@ -2,4 +2,4 @@
   <img src="https://github.com/salimizel/salimizel/blob/master/cf9d4e2580ea5d224828d4614cd187d1.gif">
 </p>
 
-<p style="color: green;">This text is green.</p>
+<p class="green-text">This text is also green.</p>
