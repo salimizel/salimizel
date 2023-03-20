@@ -13,6 +13,7 @@
 - :milky_way: Where to find : [instagram](https://www.instagram.com/izel.salim/) [linkedin](https://www.linkedin.com/in/salim-izelmad-383797268/)
 
 <strong><em>Toolkits and Languages :</em></strong>
+
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -20,7 +21,7 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img  align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" style="padding-right:10px;" />
 
-<strong><em>Link up with me :</em></strong>
+<strong><em>ALX Projects :</em></strong>
 
 - [alx-low_level_programming](https://github.com/salimizel/alx-low_level_programming)
 - [alx-system_engineering-devops](https://github.com/salimizel/alx-system_engineering-devops)
