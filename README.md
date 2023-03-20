@@ -3,7 +3,7 @@
 </p>
 
 
-**`(Developer\Video-editor\Gamer)`**
+**`Developer`**
 
 <strong><em>@bout me :</em></strong>
 - I'm a student studying software engineering.
