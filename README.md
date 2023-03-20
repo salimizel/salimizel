@@ -17,6 +17,7 @@
   - [linkedin](https://www.linkedin.com/in/salim-izelmad-383797268/)
 
 </p>
+---------------
 
 <strong><em>Toolkits and Languages :</em></strong>
 
