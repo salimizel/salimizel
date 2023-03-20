@@ -3,5 +3,12 @@
 </p>
 
 <strong><em>@bout me :</em></strong>
-:octocat: I'm a student studying software engineering.
-:octocat: I'm currently enrolled in the [ALX SE Program](https://www.alxafrica.com/).
+- I'm a student studying software engineering.
+- I'm currently enrolled in the [ALX SE Program](https://www.alxafrica.com/).
+
+</em></strong>Link up with me :</em></strong>
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
