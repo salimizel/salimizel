@@ -16,10 +16,6 @@
   - [instagram](https://www.instagram.com/izel.salim/) 
   - [linkedin](https://www.linkedin.com/in/salim-izelmad-383797268/)
 
-<strong><em>ALX Projects :</em></strong>
-
-- [alx-low_level_programming](https://github.com/salimizel/alx-low_level_programming)
-- [alx-system_engineering-devops](https://github.com/salimizel/alx-system_engineering-devops)
 
 <strong><em>Toolkits and Languages :</em></strong>
 
@@ -30,6 +26,13 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img  align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" style="padding-right:10px;" />
 
+<br />
+<br />
+
+<strong><em>ALX Projects :</em></strong>
+
+- [alx-low_level_programming](https://github.com/salimizel/alx-low_level_programming)
+- [alx-system_engineering-devops](https://github.com/salimizel/alx-system_engineering-devops)
 
 <br />
 <br />
