@@ -7,4 +7,4 @@
 - I'm currently enrolled in the [ALX SE Program](https://www.alxafrica.com/).
 
 
-</em></strong>Link up with me :</em></strong>
+<strong><em>Link up with me :</em></strong>
