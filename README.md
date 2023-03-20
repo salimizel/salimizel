@@ -34,7 +34,4 @@
 - [alx-low_level_programming](https://github.com/salimizel/alx-low_level_programming)
 - [alx-system_engineering-devops](https://github.com/salimizel/alx-system_engineering-devops)
 
-<br />
-<br />
-
 ---
