@@ -6,5 +6,14 @@
 - I'm a student studying software engineering.
 - I'm currently enrolled in the [ALX SE Program](https://www.alxafrica.com/).
 
+[website]: https://codeSTACKr.com
+[linkedin]: https://linkedin.com/in/codeSTACKr
+[instagram]: https://instagram.com/codeSTACKr
+
 </em></strong>Link up with me :</em></strong>
-<a href="https://www.linkedin.com/in/salim-izelmad-383797268/">LinkedIn</a>
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+
