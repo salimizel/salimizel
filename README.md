@@ -12,7 +12,7 @@
 - :speech_balloon: Please feel free to ask me anything.
 - :milky_way: Where to find : [instagram](https://www.instagram.com/izel.salim/) [linkedin](https://www.linkedin.com/in/salim-izelmad-383797268/)
 
-<strong><em>Languages and Tools :</em></strong>
+<strong><em>Toolkits and Languages :</em></strong>
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
