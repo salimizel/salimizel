@@ -14,12 +14,12 @@
   - [instagram](https://www.instagram.com/izel.salim/) 
   - [linkedin](https://www.linkedin.com/in/salim-izelmad-383797268/)
 
+</p>
+
 <strong><em>ALX Projects :</em></strong>
 
 - [alx-low_level_programming](https://github.com/salimizel/alx-low_level_programming)
 - [alx-system_engineering-devops](https://github.com/salimizel/alx-system_engineering-devops)
-
-
 
 <strong><em>Toolkits and Languages :</em></strong>
 
