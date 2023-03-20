@@ -8,6 +8,6 @@
 
 
 <strong><em>Link up with me :</em></strong>
-Please feel free to ask me anything.
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" /> Where to find me :
+- Please feel free to ask me anything.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" /> 
+Where to find me :
