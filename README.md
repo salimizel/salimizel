@@ -2,6 +2,8 @@
   <img src="https://github.com/salimizel/salimizel/blob/master/ezgif.com-video-to-gif.gif">
 </p>
 
+---
+
 **`Developer`**  **`Video editor`**  **`Gamer`**
 
 <strong><em>@bout me :</em></strong>
