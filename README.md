@@ -4,5 +4,5 @@
 
 ### @bout me :
 - I'm a student studying software engineering.
--  currently enrolled in the [ALX SE Program](https://www.alxafrica.com/).
---- m
+- I'm currently enrolled in the [ALX SE Program](https://www.alxafrica.com/).
+---
