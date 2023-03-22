@@ -18,9 +18,6 @@
 >> 
 >> [<table><tr><td>linkedin</td></tr></table>](https://www.linkedin.com/in/salim-izelmad-383797268/)
 
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 
 <strong><em>Toolkits and Languages :</em></strong>
