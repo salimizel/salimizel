@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-
   **`Developer`**
-
 </p>
 
 <strong><em>about me :</em></strong>
