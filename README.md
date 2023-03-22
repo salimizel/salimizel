@@ -2,9 +2,9 @@
   <img src="https://github.com/salimizel/salimizel/blob/master/ezgif.com-video-to-gif.gif">
 </p>
 
-<p align="center">**`Developer`**</p>
+<p align="center">dev</p>
 
-**`Developer`**
+**`Developer`**)=dev
 
 <strong><em>about me :</em></strong>
 > I'm a student studying software engineering.
