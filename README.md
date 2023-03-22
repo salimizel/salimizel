@@ -6,9 +6,9 @@
 **`Developer`**
 
 <strong><em>about me :</em></strong>
-> I'm a student studying software engineering.
+- I'm a student studying software engineering.
 
-> I'm currently enrolled in the [ALX SE Program](https://www.alxafrica.com/).
+- I'm currently enrolled in the [ALX SE Program](https://www.alxafrica.com/).
 
 <strong><em>Link up with me :</em></strong>
 - :speech_balloon: Please feel free to ask me anything.
