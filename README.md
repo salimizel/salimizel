@@ -35,7 +35,7 @@
 
 <strong><em>ALX Projects :</em></strong>
 
-- [alx-low_level_programming](https://github.com/salimizel/alx-low_level_programming)
-- [alx-system_engineering-devops](https://github.com/salimizel/alx-system_engineering-devops)
+- alx-low_level_programming.[Here](https://github.com/salimizel/alx-low_level_programming)
+- alx-system_engineering-devops.[here](https://github.com/salimizel/alx-system_engineering-devops)
 
 ---
