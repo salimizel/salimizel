@@ -16,7 +16,7 @@
 > :milky_way: Where to find : 
 >> [<table><tr><td>instagram</td></tr></table>](https://www.instagram.com/izel.salim/) 
 >> 
->> [linkedin](https://www.linkedin.com/in/salim-izelmad-383797268/)
+>> [<table><tr><td>linkedin</td></tr></table>](https://www.linkedin.com/in/salim-izelmad-383797268/)
 
 
 <strong><em>Toolkits and Languages :</em></strong>
