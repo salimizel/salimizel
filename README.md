@@ -14,9 +14,9 @@
 > :speech_balloon: Please feel free to ask me anything.
 > 
 > :milky_way: Where to find : 
->> <table><tr><td>instagram</td></tr></table> [Click me](https://www.instagram.com/izel.salim/) 
+>> [<table><tr><td>instagram</td></tr></table>][Click me](https://www.instagram.com/izel.salim/) 
 >> 
->> <table><tr><td>linkedin</td></tr></table>[Click me](https://www.linkedin.com/in/salim-izelmad-383797268/)
+>> <table><tr><td>linkedin</td></tr></table> [Click me](https://www.linkedin.com/in/salim-izelmad-383797268/)
 
 
 
