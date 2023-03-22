@@ -8,7 +8,7 @@
 <strong><em>about me :</em></strong>
 > I'm a student studying software engineering.
 > 
-> I'm currently enrolled in the ALX SE Program. [(Link)](https://www.alxafrica.com/)
+> I'm currently enrolled in the ALX SE Program [(Link)](https://www.alxafrica.com/).
 
 <strong><em>Link up with me :</em></strong>
 > :speech_balloon: Please feel free to ask me anything.
@@ -35,8 +35,7 @@
 #
 
 <strong><em>ALX Projects :</em></strong>
-
-- alx-low_level_programming. [(Link)](https://github.com/salimizel/alx-low_level_programming)
-- alx-system_engineering-devops. [(Link)](https://github.com/salimizel/alx-system_engineering-devops)
+- alx-low_level_programming [(Link)](https://github.com/salimizel/alx-low_level_programming).
+- alx-system_engineering-devops [(Link)](https://github.com/salimizel/alx-system_engineering-devops).
 
 ---
