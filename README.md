@@ -11,10 +11,12 @@
 > I'm currently enrolled in the [ALX SE Program](https://www.alxafrica.com/).
 
 <strong><em>Link up with me :</em></strong>
-- :speech_balloon: Please feel free to ask me anything.
-- :milky_way: Where to find : 
-  - [instagram](https://www.instagram.com/izel.salim/) 
-  - [linkedin](https://www.linkedin.com/in/salim-izelmad-383797268/)
+> :speech_balloon: Please feel free to ask me anything.
+> 
+> :milky_way: Where to find : 
+>> [instagram](https://www.instagram.com/izel.salim/) 
+>> 
+>> [linkedin](https://www.linkedin.com/in/salim-izelmad-383797268/)
 
 
 <strong><em>Toolkits and Languages :</em></strong>
